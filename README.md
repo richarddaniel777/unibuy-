@@ -111,4 +111,4 @@ In active development.
 
 ## License
 
-All rights reserved. Add a license here if you decide to open-source the project.
+All rights reserved.
