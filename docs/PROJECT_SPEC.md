@@ -1,4 +1,4 @@
-# UniBuy: Project Specification (v1.1)
+git # UniBuy: Project Specification (v1.1)
 
 > Source of truth for the build. Codex must read this file before starting any task.
 > If a request conflicts with this spec, stop and ask. Do not guess.
