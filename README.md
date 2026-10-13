@@ -36,7 +36,7 @@ UniBuy only connects people. It does not handle payments between buyers and sell
 ### Setup
 
 ```bash
-git clone https://github.com/<your-username>/unibuy.git
+git clone https://github.com/richarddaniel777/unibuy.git
 cd unibuy
 npm install
 cp .env.example .env.local
@@ -111,4 +111,4 @@ In active development.
 
 ## License
 
-All rights reserved.
+All rights reserved. 
